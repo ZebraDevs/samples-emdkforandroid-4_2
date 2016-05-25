@@ -1,1 +1,1 @@
-samples-emdkforandroid-4_2
+samples-emdkforandroid-4_2 - ProfileWirelessMgrSample1
